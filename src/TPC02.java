@@ -9,7 +9,7 @@ public class TPC02 {
         System.out.println(c);
 
         float f; // float, double
-        f = 34.5f;
+        f = 34.5f; 
         System.out.println(f);
 
         char d;

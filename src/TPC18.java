@@ -14,13 +14,13 @@ public class TPC18 {
         int sum = my.hap();
         System.out.println(sum);
 
-        // 3. 다른 회사에서 만들어 놓은 Class... API
-        // Gson > json
-        Gson g = new Gson();
-        BookVO vo = new BookVO("자바", 13000, "영진", 800);
-        String json = g.toJson(vo);
-        // json 구조로 만들어주는 API
-        System.out.println(json);
+//        // 3. 다른 회사에서 만들어 놓은 Class... API
+//        // Gson > json
+//        Gson g = new Gson();
+//        BookVO vo = new BookVO("자바", 13000, "영진", 800);
+//        String json = g.toJson(vo);
+//        // json 구조로 만들어주는 API
+//        System.out.println(json);
 
 
 
